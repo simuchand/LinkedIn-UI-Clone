@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/story_profile_img_container"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_centerHorizontal="true"
+        app:cardCornerRadius="250dp">
+
+        <ImageView
+            android:id="@+id/story_profile_img"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/simu" />
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="14dp"
+        android:layout_height="14dp"
+        android:layout_toEndOf="@id/story_profile_img_container"
+        android:layout_alignTop="@id/story_profile_name"
+        android:layout_marginTop="-20dp"
+        android:layout_marginStart="-8dp"
+        app:cardCornerRadius="250dp" >
+
+        <ImageView
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:src="@drawable/ic_story_add"
+            android:visibility="visible" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/story_profile_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/story_profile_img_container"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="8dp"
+        android:text="@string/story_profile_name"
+        android:textStyle="bold"
+        android:textSize="8sp"
+        android:textColor="@color/black"
+        tools:ignore="SmallSp" />
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">LinkedIn Clone</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="profile_dec">Description of the person</string>
+    <string name="post_timestamp">3h</string>
+    <string name="post_content">Implementation of Recycler view with multiple views using kotlin.</string>
+    <string name="social_count">4,0852</string>
+    <string name="comment_count">253 comments</string>
+    <string name="like_text">Like</string>
+    <string name="comment_text">Comment</string>
+    <string name="share_text">Share</string>
+    <string name="send_text">Send</string>
+    <string name="search_text">Search</string>
+    <string name="story_profile_name">Profile Name</string>
+
+    //Post 1
+    <string name="profile_name_1">Google</string>
+    <string name="profile_dec_1">20,141,803 followers</string>
+    <string name="post_timestamp_1">2d</string>
+    <string name="post_content_1">From coaching students in hackathons to mentoring local entrepreneurs,
+        Googlers in Indonesia, Singapore, Taiwan and the Philippines share how helping others can
+        lead you to learn more about yourself.
+    </string>
+    <string name="social_count_1">1,478</string>
+    <string name="comment_count_1">39 comments</string>
+
+    //Post 2
+    <string name="profile_name_2">Apple</string>
+    <string name="profile_dec_2">Consumer Electronics Cupertino, California 13,053,338 followers</string>
+    <string name="post_timestamp_2">1d</string>
+    <string name="post_content_2">Apple is an equal opportunity employer that is committed to
+        inclusion and diversity. Visit jobs.apple.com to learn more.
+    </string>
+    <string name="social_count_2">12,235</string>
+    <string name="comment_count_2">548 comments</string>
+
+    //Post 3
+    <string name="profile_name_3">dscsrec</string>
+    <string name="profile_dec_3">135 followers</string>
+    <string name="post_timestamp_3">23h</string>
+    <string name="post_content_3">Hello everybody!
+
+        Being in this pandemic at the moment.. the only virtual gift we could give you on this
+        special day is episode 2 of our 90 seconds of learning - Season 1. Spend your Christmas
+        learning about Cloud computing!\n
+        Youtube Link : https://lnkd.in/ge8qS7T\n
+
+        DSC SREC wishes you all a Merry Christmas!✨ \n\n
+
+        #dscsrec #90_seconds_of_learning #CloudComputing #ai_cloud_platform #developerstudentsclubs #learning
+    </string>
+    <string name="social_count_3">35</string>
+    <string name="comment_count_3">12 comments</string>
+
+    //Post 4
+    <string name="profile_name_4">dscsrec</string>
+    <string name="profile_dec_4">135 followers</string>
+    <string name="post_timestamp_4">6h</string>
+    <string name="post_content_4">Hello everybody!\nTime is ticking join our virtual Android Study Jam
+    </string>
+    <string name="social_count_4">75</string>
+    <string name="comment_count_4">16 comments</string>
+</resources>
