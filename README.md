@@ -21,6 +21,12 @@ The recycler view consists of three view type to hold **text alone** post, **tex
   * Ktolin Version - **1.4.21**
   * Gradle Version - **4.1.0**
   
+  
+## Application output
+
+<img src="application_output_images/linkedIn_clone_output_1.jpeg" height=400>
+<img src="application_output_images/linkedIn_clone_output_2.jpeg" height=400>
+  
  
 ## Application Limitations
 
